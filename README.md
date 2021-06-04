@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matty808dncr
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence!
+- 👀 I’m interested in Data Science/Machine Learning, Artificial Intelligence, and Front-End Developing!
 - 🌱 I’m currently learning Data Science and Game Development (just cuz!)
 - 💞️ I’m looking to collaborate on different projects and ML/DL projects.
 - 📫 How to reach me ...
